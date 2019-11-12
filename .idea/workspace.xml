@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8bd0e09-cb56-438d-a85b-9ec09712f0e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jacobwashburn.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/Movies/Movie.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Movies/Movie.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Movies/MovieCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Movies/MovieCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Movies/MovieList.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Movies/MovieList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/Movies/SavedList.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Movies/SavedList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +102,7 @@
       <workItem from="1573514616647" duration="4920000" />
       <workItem from="1573531773426" duration="7393000" />
       <workItem from="1573588369530" duration="629000" />
-      <workItem from="1573590073286" duration="4890000" />
+      <workItem from="1573590073286" duration="5234000" />
     </task>
     <task id="LOCAL-00001" summary="initial setup">
       <created>1573514821408</created>
@@ -125,7 +118,35 @@
       <option name="project" value="LOCAL" />
       <updated>1573514874650</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added Router around app">
+      <created>1573599615046</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573599615046</updated>
+    </task>
+    <task id="LOCAL-00004" summary="created routes to movielist and movie">
+      <created>1573599651922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573599651922</updated>
+    </task>
+    <task id="LOCAL-00005" summary="filled out moviecard with data">
+      <created>1573599701550</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573599701550</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactored movie list and made it work">
+      <created>1573599817722</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573599817722</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +166,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial setup" />
     <MESSAGE value="initial setup 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial setup 2" />
+    <MESSAGE value="added Router around app" />
+    <MESSAGE value="created routes to movielist and movie" />
+    <MESSAGE value="filled out moviecard with data" />
+    <MESSAGE value="refactored movie list and made it work" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored movie list and made it work" />
   </component>
   <component name="masterDetails">
     <states>
