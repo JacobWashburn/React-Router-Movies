@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8bd0e09-cb56-438d-a85b-9ec09712f0e2" name="Default Changelist" comment="">
+    <list default="true" id="d8bd0e09-cb56-438d-a85b-9ec09712f0e2" name="Default Changelist" comment="saved list reset button and home link">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/Movies/Movie.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Movies/Movie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/Movies/MovieList.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Movies/MovieList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/Movies/SavedList.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Movies/SavedList.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,19 +14,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>movies</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="1417" />
   </component>
   <component name="ProjectId" id="1TWyIl5X7ls4Ri65KIlBK0N00pJ" />
   <component name="PropertiesComponent">
@@ -102,7 +94,8 @@
       <workItem from="1573514616647" duration="4920000" />
       <workItem from="1573531773426" duration="7393000" />
       <workItem from="1573588369530" duration="629000" />
-      <workItem from="1573590073286" duration="5234000" />
+      <workItem from="1573590073286" duration="13462000" />
+      <workItem from="1573662574332" duration="209000" />
     </task>
     <task id="LOCAL-00001" summary="initial setup">
       <created>1573514821408</created>
@@ -146,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573599817722</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="refactoring, making it work, and adding save movie functionality">
+      <created>1573599875740</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1573599875740</updated>
+    </task>
+    <task id="LOCAL-00008" summary="saved list reset button and home link">
+      <created>1573599988024</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1573599988024</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +164,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -170,7 +179,9 @@
     <MESSAGE value="created routes to movielist and movie" />
     <MESSAGE value="filled out moviecard with data" />
     <MESSAGE value="refactored movie list and made it work" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactored movie list and made it work" />
+    <MESSAGE value="refactoring, making it work, and adding save movie functionality" />
+    <MESSAGE value="saved list reset button and home link" />
+    <option name="LAST_COMMIT_MESSAGE" value="saved list reset button and home link" />
   </component>
   <component name="masterDetails">
     <states>

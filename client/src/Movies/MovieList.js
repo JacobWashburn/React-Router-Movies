@@ -23,7 +23,7 @@ const MovieList = props => {
     return (
         <div className="movie-list">
             {movies.map((movie, index) => (
-                <Link key={index} exact to={`/movies/${movie.id}`}>
+                <Link key={index} to={`/movies/${movie.id}`}>
                     <MovieCard  movie={movie}/>
                 </Link>
             ))}
